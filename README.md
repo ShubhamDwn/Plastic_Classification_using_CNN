@@ -94,6 +94,6 @@ Contributions are welcome! If you have ideas or suggestions, feel free to fork t
 
 
 ## Author
-Developed by Shubham Ekanath Dhavan, Asashish Mulani, Prachi Wandre, Samruddhi Patil.
+Developed by Shubham Dhavan, Ashish Mulani, Prachi Wandre, Samruddhi Patil.
 Feel free to reach out for collaborations or queries!
 
